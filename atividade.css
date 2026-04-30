@@ -1,0 +1,25 @@
+body{
+    background-color: #E4c2c6
+}
+h1{
+    color: #9B111E;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+
+
+}
+h2{
+    color: #9B111E;
+    font-style: italic;
+}
+p{
+    color:#540212;
+
+}
+table{
+    color:#790018;
+    font: 1em sans-serif;
+}
+form{
+    color: #9B111E;
+}
